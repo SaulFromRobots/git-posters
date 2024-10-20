@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   sodipodi:docname="2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.2046911"
+     inkscape:cx="70.838447"
+     inkscape:cy="625.3325"
+     inkscape:window-width="956"
+     inkscape:window-height="490"
+     inkscape:window-x="20"
+     inkscape:window-y="20"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g3" />
+  <defs
+     id="defs1">
+    <rect
+       x="279.41345"
+       y="662.76369"
+       width="135.05825"
+       height="17.317996"
+       id="rect4" />
+    <rect
+       x="345.4479"
+       y="476.44581"
+       width="140.01193"
+       height="16.940245"
+       id="rect3" />
+    <rect
+       x="229.3057"
+       y="591.22385"
+       width="116.1422"
+       height="101.65868"
+       id="rect2" />
+    <rect
+       x="279.41345"
+       y="662.76367"
+       width="135.05824"
+       height="17.317995"
+       id="rect4-7" />
+    <rect
+       x="279.41345"
+       y="662.76367"
+       width="135.05824"
+       height="17.317995"
+       id="rect4-7-1" />
+    <rect
+       x="279.41345"
+       y="662.76367"
+       width="135.05824"
+       height="17.317995"
+       id="rect4-7-1-6" />
+    <rect
+       x="279.41345"
+       y="662.76367"
+       width="135.05824"
+       height="17.317995"
+       id="rect4-7-2" />
+    <rect
+       x="279.41345"
+       y="662.76367"
+       width="135.05824"
+       height="17.317995"
+       id="rect4-3" />
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path8" />
+    </marker>
+    <rect
+       x="279.41345"
+       y="662.76367"
+       width="135.05824"
+       height="17.317995"
+       id="rect4-5" />
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow-3"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path8-2" />
+    </marker>
+    <rect
+       x="279.41345"
+       y="662.76367"
+       width="97.691695"
+       height="37.035963"
+       id="rect4-5-5" />
+    <rect
+       x="279.41345"
+       y="662.76367"
+       width="103.0989"
+       height="61.882049"
+       id="rect4-5-5-2" />
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow-8"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path8-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow-8-2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path8-4-0" />
+    </marker>
+    <rect
+       x="0"
+       y="0"
+       width="793.70081"
+       height="97.626923"
+       id="rect5" />
+    <rect
+       x="0"
+       y="0"
+       width="791.21131"
+       height="288.07571"
+       id="rect5-2" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffff00;stroke:#808000;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect16"
+       width="99.540657"
+       height="48.457813"
+       x="4.3386388"
+       y="80.370743"
+       rx="6" />
+    <rect
+       style="fill:#ffff00;stroke:#808000;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect16-7"
+       width="48.878708"
+       height="48.878708"
+       x="156.78265"
+       y="80.370743"
+       rx="6" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text2"
+       style="font-size:21.3333px;line-height:0.8;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect2);display:inline;fill:#ff6600;stroke:#aa4400;stroke-width:5.66929" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,0.32748286,15.286999)"
+       id="text3"
+       style="font-size:42.6667px;line-height:0.8;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;letter-spacing:6.14px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3);display:inline;fill:#ff6600;stroke:#aa4400;stroke-width:5.66929"
+       x="5.0559921"
+       y="0"><tspan
+         x="345.44727"
+         y="522.94787"
+         id="tspan25"><tspan
+           dx="0 7.6853533 8.345355 14.197372 14.197372 2.7280197 4.8253517"
+           style="font-weight:100;font-size:14.6667px;font-family:'Work Sans';-inkscape-font-specification:'Work Sans Thin';letter-spacing:0px"
+           id="tspan3">commits</tspan></tspan></text>
+    <g
+       id="g5"
+       transform="translate(3.7176449,-82.692984)">
+      <ellipse
+         style="fill:#5f8dd3;stroke:#2c5aa0;stroke-width:1.5"
+         id="path1-3"
+         cy="187.29263"
+         cx="126.97115"
+         ry="16.415552"
+         rx="18.006561" />
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,35.042364,9.632387)"
+         id="text4-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:0.8em;font-family:'Work Sans';-inkscape-font-specification:'Work Sans';text-align:start;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4-7);display:inline;fill:#2c5aa0;stroke:none;stroke-width:5.66929"
+         x="61.574699"
+         y="0"><tspan
+           x="321.23936"
+           y="679.39181"
+           id="tspan27"><tspan
+             style="text-align:center;text-anchor:middle"
+             id="tspan26">FILE</tspan></tspan></text>
+    </g>
+    <g
+       id="g5-75"
+       transform="translate(54.250849,-82.482534)">
+      <ellipse
+         style="fill:#5f8dd3;stroke:#2c5aa0;stroke-width:1.5"
+         id="path1-3-9"
+         cy="187.29263"
+         cx="126.97115"
+         ry="16.415552"
+         rx="18.006561" />
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,35.042364,9.632387)"
+         id="text4-5-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:0.8em;font-family:'Work Sans';-inkscape-font-specification:'Work Sans';text-align:start;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4-7-2);display:inline;fill:#2c5aa0;stroke:none;stroke-width:5.66929"
+         x="61.574699"
+         y="0"><tspan
+           x="321.23936"
+           y="679.39181"
+           id="tspan29"><tspan
+             style="text-align:center;text-anchor:middle"
+             id="tspan28">FILE</tspan></tspan></text>
+    </g>
+    <g
+       id="g5-7"
+       transform="translate(-47.365201,-82.692984)">
+      <ellipse
+         style="fill:#5f8dd3;stroke:#2c5aa0;stroke-width:1.5"
+         id="path1-3-0"
+         cy="187.29263"
+         cx="126.97115"
+         ry="16.415552"
+         rx="18.006561" />
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,35.042364,9.632387)"
+         id="text4-5-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:0.8em;font-family:'Work Sans';-inkscape-font-specification:'Work Sans';text-align:start;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4-7-1);display:inline;fill:#2c5aa0;stroke:none;stroke-width:5.66929"
+         x="61.574699"
+         y="0"><tspan
+           x="321.23936"
+           y="679.39181"
+           id="tspan31"><tspan
+             style="text-align:center;text-anchor:middle"
+             id="tspan30">FILE</tspan></tspan></text>
+    </g>
+    <g
+       id="g5-7-6"
+       transform="translate(-98.448047,-82.692984)">
+      <ellipse
+         style="fill:#5f8dd3;stroke:#2c5aa0;stroke-width:1.5"
+         id="path1-3-0-1"
+         cy="187.29263"
+         cx="126.97115"
+         ry="16.415552"
+         rx="18.006561" />
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,35.042364,9.632387)"
+         id="text4-5-9-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:0.8em;font-family:'Work Sans';-inkscape-font-specification:'Work Sans';text-align:start;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4-7-1-6);display:inline;fill:#2c5aa0;stroke:none;stroke-width:5.66929"
+         x="61.574699"
+         y="0"><tspan
+           x="321.23936"
+           y="679.39181"
+           id="tspan33"><tspan
+             style="text-align:center;text-anchor:middle"
+             id="tspan32">FILE</tspan></tspan></text>
+    </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 86.03588,138.22131 v 0"
+       id="path16"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g4"
+       transform="translate(25.733237,51.4637)">
+      <g
+         id="g6">
+        <ellipse
+           style="fill:#ff6600;stroke:#aa4400;stroke-width:1.5"
+           id="path1"
+           cy="148.5"
+           cx="105"
+           ry="16.415552"
+           rx="18.006561" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0.26458333,0,0,0.26458333,13.071221,-29.160246)"
+           id="text4"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:0.8em;font-family:'Work Sans';-inkscape-font-specification:'Work Sans';text-align:start;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4-5);display:inline;fill:#aa4400;stroke:none;stroke-width:5.66929"
+           x="14.006705"
+           y="0"><tspan
+             x="298.43936"
+             y="679.39181"
+             id="tspan35"><tspan
+               style="text-align:center;text-anchor:middle"
+               id="tspan34">COMMIT</tspan></tspan></text>
+      </g>
+    </g>
+    <g
+       id="g4-7"
+       transform="translate(-22.36322,51.4637)">
+      <g
+         id="g6-6">
+        <ellipse
+           style="fill:#ff6600;stroke:#aa4400;stroke-width:1.5"
+           id="path1-5"
+           cy="148.5"
+           cx="105"
+           ry="16.415552"
+           rx="18.006561" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0.26458333,0,0,0.26458333,18.033638,-31.731998)"
+           id="text4-6"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:0.8em;font-family:'Work Sans';-inkscape-font-specification:'Work Sans';text-align:start;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4-5-5);display:inline;fill:#aa4400;stroke:none;stroke-width:5.66929"
+           x="14.006705"
+           y="0"><tspan
+             x="281.90376"
+             y="679.39181"
+             id="tspan37"><tspan
+               style="text-align:center;text-anchor:middle"
+               id="tspan36">PARENT
+</tspan></tspan><tspan
+             x="279.75577"
+             y="698.59182"
+             id="tspan39"><tspan
+               style="text-align:center;text-anchor:middle"
+               id="tspan38">COMMIT</tspan></tspan></text>
+      </g>
+    </g>
+    <g
+       id="g2">
+      <ellipse
+         style="fill:#ff6600;stroke:#aa4400;stroke-width:1.5"
+         id="path1-5-4"
+         cy="199.96371"
+         cx="34.502232"
+         ry="16.415552"
+         rx="18.006561" />
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,-53.17934,17.223451)"
+         id="text4-6-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:0.8em;font-family:'Work Sans';-inkscape-font-specification:'Work Sans';text-align:start;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4-5-5-2);display:inline;fill:#aa4400;stroke:none;stroke-width:5.66929"
+         x="14.006705"
+         y="0"><tspan
+           x="288.91487"
+           y="679.39181"
+           id="tspan41"><tspan
+             style="text-align:center;text-anchor:middle"
+             id="tspan40">GRAND
+</tspan></tspan><tspan
+           x="284.60688"
+           y="698.59182"
+           id="tspan43"><tspan
+             style="text-align:center;text-anchor:middle"
+             id="tspan42">PARENT
+</tspan></tspan><tspan
+           x="282.45889"
+           y="717.79183"
+           id="tspan45"><tspan
+             style="text-align:center;text-anchor:middle"
+             id="tspan44">COMMIT</tspan></tspan></text>
+    </g>
+    <g
+       id="g3"
+       transform="translate(24.605082,-41.275002)">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-dashoffset:1.88976"
+         id="rect6"
+         width="209.00233"
+         height="24.072063"
+         x="-24.106249"
+         y="41.775002" />
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,-24.160626,47.604421)"
+         id="text5"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.3333px;line-height:0.8em;font-family:'Work Sans';-inkscape-font-specification:'Work Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5);display:inline;fill:#000000;stroke:none;stroke-width:3.77953;stroke-dashoffset:1.88976"
+         x="-3.5762787e-06"
+         y="0"><tspan
+           x="254.18399"
+           y="36.951385"
+           id="tspan46">git commit</tspan></text>
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-dashoffset:1.88976"
+         id="rect6-9"
+         width="209.06577"
+         height="49.382477"
+         x="-24.137968"
+         y="288.39252" />
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,-23.946404,288.5439)"
+         id="text5-7"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;line-height:1.1em;font-family:'Work Sans';-inkscape-font-specification:'Work Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5-2);shape-padding:1.96102;display:inline;fill:#000000;stroke:none;stroke-width:3.77953;stroke-dashoffset:1.88976"
+         x="385.13998"
+         y="0"><tspan
+           x="1.9609375"
+           y="22.189071"
+           id="tspan48"><tspan
+             style="font-weight:normal;line-height:1.1em;-inkscape-font-specification:'Work Sans, Normal'"
+             id="tspan47">-Make a commit
+</tspan></tspan><tspan
+           x="1.9609375"
+           y="48.589072"
+           id="tspan50"><tspan
+             style="font-weight:normal;line-height:1.1em;-inkscape-font-specification:'Work Sans, Normal'"
+             id="tspan49">-A commit is a list of changes made to your code since the </tspan></tspan><tspan
+           x="1.9609375"
+           y="74.989074"
+           id="tspan52"><tspan
+             style="font-weight:normal;line-height:1.1em;-inkscape-font-specification:'Work Sans, Normal'"
+             id="tspan51">preceding commit
+</tspan></tspan><tspan
+           x="1.9609375"
+           y="101.38908"
+           id="tspan54"><tspan
+             style="font-weight:normal;line-height:1.1em;-inkscape-font-specification:'Work Sans, Normal'"
+             id="tspan53">-Commits all point to the commit that precedes them, called the </tspan></tspan><tspan
+           x="1.9609375"
+           y="127.78908"
+           id="tspan56"><tspan
+             style="font-weight:normal;line-height:1.1em;-inkscape-font-specification:'Work Sans, Normal'"
+             id="tspan55">&quot;parent&quot;
+</tspan></tspan><tspan
+           x="1.9609375"
+           y="154.18907"
+           id="tspan58"><tspan
+             style="font-weight:normal;line-height:1.1em;-inkscape-font-specification:'Work Sans, Normal'"
+             id="tspan57">-These parent relationships form a chain of changes, called the </tspan></tspan><tspan
+           x="1.9609375"
+           y="180.58906"
+           id="tspan60"><tspan
+             style="font-weight:normal;line-height:1.1em;-inkscape-font-specification:'Work Sans, Normal'"
+             id="tspan59">&quot;ancestors&quot; of that commit</tspan></tspan></text>
+    </g>
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#RoundedArrow)"
+       d="M 123.00964,185.13508 92.707705,126.95809"
+       id="path15"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g4" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#RoundedArrow-8)"
+       d="m 100.64334,199.9637 h 12.08334"
+       id="path15-1"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-end="#g4"
+       inkscape:connection-start="#g4-7" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#RoundedArrow-8-2)"
+       d="m 52.508793,199.96371 12.121426,0"
+       id="path15-1-8"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-end="#g4-7"
+       inkscape:connection-start="#g2" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#RoundedArrow-3)"
+       d="m 136.67929,184.46929 21.86187,-56.96833"
+       id="path15-6"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g4" />
+  </g>
+</svg>
